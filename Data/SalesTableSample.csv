@@ -1,0 +1,4 @@
+﻿Category,County,Countycode,Group,Plannedsales,Price,Saledate,Shipdate,Sku,Ts,Usercity,Usergender,Userincome,Usersentiment,Userstate,Zipcode
+Self-Help,Monterey,6053,Books,6.393600464,10,2021-01-05T13:37:43,2021-01-06T13:37:43,ZD111258,2021-01-04T13:37:43,Bradley,Female,"$100,000 or more",0,California,93925
+Earrings,Pima,4019,Jewelry,826.3728638,1658,2021-01-05T13:37:44,2021-01-06T13:37:44,ZD111448,2021-01-04T13:37:44,Ajo,Male,"$0 to $25,000",1,Arizona,85755
+Camcorders,Maricopa,4013,Electronics,760.8384399,1234,2021-01-05T13:37:57,2021-01-06T13:37:57,ZD111300,2021-01-04T13:37:57,Phoenix,Male,"$0 to $25,000",1,Arizona,85036
