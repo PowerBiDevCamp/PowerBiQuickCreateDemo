@@ -1,6 +1,5 @@
 import { Configuration, PopupRequest } from "@azure/msal-browser";
 
-
 const TenantId = "11111111-1111-1111-1111-111111111111";
 const ClientId = "22222222-2222-2222-2222-222222222222";
 
